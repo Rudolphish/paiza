@@ -1,0 +1,4 @@
+3
+make 1 nana
+getnum 1
+getname 1
