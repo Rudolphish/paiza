@@ -1,0 +1,2001 @@
+1000 1000
+16
+81
+27
+14
+49
+36
+79
+42
+88
+83
+84
+99
+22
+3
+55
+27
+45
+26
+53
+15
+52
+32
+36
+90
+14
+77
+26
+31
+91
+86
+79
+69
+81
+68
+14
+2
+44
+64
+3
+29
+27
+5
+38
+100
+5
+91
+35
+31
+20
+42
+83
+8
+77
+18
+71
+98
+52
+34
+50
+23
+64
+33
+21
+4
+28
+68
+40
+55
+92
+75
+28
+52
+74
+36
+19
+39
+43
+92
+23
+54
+19
+100
+24
+82
+100
+49
+38
+28
+75
+40
+95
+38
+29
+9
+35
+75
+98
+38
+82
+12
+56
+55
+4
+90
+34
+81
+23
+18
+13
+33
+40
+99
+26
+82
+14
+12
+1
+18
+98
+54
+55
+67
+100
+39
+47
+9
+27
+95
+85
+32
+37
+77
+61
+23
+37
+14
+36
+88
+83
+14
+60
+68
+90
+22
+39
+52
+65
+10
+35
+68
+89
+7
+38
+16
+73
+25
+26
+14
+72
+61
+34
+42
+88
+1
+17
+47
+97
+70
+22
+50
+13
+23
+22
+79
+37
+42
+58
+62
+72
+91
+6
+46
+59
+42
+75
+9
+88
+59
+63
+24
+85
+4
+81
+80
+98
+39
+56
+98
+36
+46
+42
+65
+69
+46
+23
+57
+3
+29
+56
+63
+6
+26
+35
+96
+83
+11
+18
+50
+12
+31
+58
+73
+73
+4
+26
+83
+84
+63
+98
+63
+61
+9
+43
+66
+43
+31
+14
+72
+85
+11
+59
+43
+85
+70
+75
+21
+44
+41
+33
+66
+46
+100
+52
+51
+1
+73
+34
+62
+64
+6
+100
+70
+60
+57
+52
+74
+30
+35
+59
+49
+70
+74
+11
+34
+70
+57
+87
+7
+15
+39
+96
+20
+96
+22
+1
+29
+68
+90
+23
+9
+84
+14
+4
+25
+16
+49
+32
+40
+90
+92
+80
+90
+56
+3
+47
+3
+70
+86
+98
+51
+10
+12
+73
+6
+26
+57
+16
+90
+66
+84
+92
+93
+87
+9
+21
+86
+50
+66
+69
+66
+71
+79
+9
+80
+94
+60
+16
+90
+50
+28
+66
+22
+6
+21
+85
+51
+10
+35
+94
+40
+77
+50
+97
+57
+18
+37
+42
+6
+92
+21
+25
+68
+76
+39
+58
+43
+58
+26
+21
+28
+24
+40
+59
+57
+13
+32
+62
+61
+13
+95
+4
+51
+92
+47
+62
+74
+10
+51
+59
+2
+46
+40
+100
+99
+8
+51
+54
+88
+36
+65
+54
+23
+41
+60
+7
+22
+2
+33
+40
+44
+72
+87
+9
+88
+49
+51
+19
+40
+65
+34
+7
+88
+62
+57
+90
+96
+17
+15
+79
+30
+69
+19
+3
+6
+37
+100
+53
+29
+39
+87
+40
+27
+33
+74
+97
+62
+84
+42
+25
+46
+37
+9
+62
+28
+71
+14
+29
+48
+90
+98
+27
+82
+64
+39
+75
+92
+61
+74
+44
+98
+18
+43
+39
+38
+60
+64
+79
+55
+40
+3
+39
+48
+87
+55
+91
+27
+45
+69
+42
+75
+56
+24
+24
+20
+59
+87
+18
+50
+84
+31
+18
+46
+52
+32
+37
+62
+55
+54
+85
+28
+78
+15
+71
+8
+82
+28
+86
+92
+91
+45
+4
+12
+74
+26
+65
+49
+75
+82
+79
+68
+23
+53
+66
+98
+49
+30
+89
+67
+51
+26
+14
+65
+82
+55
+64
+50
+16
+13
+55
+43
+17
+45
+10
+34
+49
+23
+35
+36
+30
+18
+14
+21
+81
+5
+56
+18
+15
+34
+5
+31
+68
+96
+28
+27
+41
+51
+2
+15
+96
+88
+28
+16
+81
+61
+5
+6
+17
+43
+58
+65
+80
+93
+23
+95
+92
+43
+16
+7
+3
+28
+69
+31
+19
+45
+65
+6
+85
+2
+28
+66
+74
+60
+98
+100
+71
+92
+63
+8
+23
+1
+41
+31
+80
+59
+62
+83
+88
+28
+65
+16
+49
+63
+86
+80
+84
+60
+1
+93
+35
+58
+16
+2
+92
+89
+20
+65
+70
+56
+47
+8
+100
+32
+49
+80
+39
+89
+41
+89
+39
+89
+52
+80
+90
+72
+51
+50
+86
+66
+7
+72
+15
+44
+12
+1
+99
+60
+56
+9
+50
+83
+71
+86
+94
+83
+100
+67
+96
+14
+57
+39
+6
+57
+50
+52
+34
+20
+92
+4
+10
+46
+53
+3
+24
+75
+15
+46
+65
+60
+42
+66
+57
+95
+97
+60
+50
+37
+69
+24
+96
+99
+63
+19
+61
+52
+74
+97
+54
+6
+69
+44
+66
+29
+26
+48
+34
+58
+17
+83
+68
+78
+78
+12
+64
+56
+93
+59
+28
+78
+37
+55
+73
+42
+41
+100
+3
+86
+35
+4
+95
+76
+95
+17
+28
+26
+68
+47
+46
+17
+5
+46
+45
+27
+68
+24
+4
+41
+93
+79
+97
+15
+72
+97
+48
+14
+20
+88
+74
+82
+40
+49
+54
+30
+42
+86
+9
+32
+12
+1
+19
+70
+8
+6
+60
+30
+35
+56
+89
+28
+38
+57
+90
+21
+12
+58
+90
+70
+98
+61
+96
+23
+46
+66
+22
+36
+33
+14
+8
+8
+15
+8
+6
+46
+92
+59
+74
+88
+3
+54
+92
+58
+44
+43
+16
+31
+95
+41
+47
+21
+10
+48
+79
+9
+33
+31
+31
+76
+44
+74
+25
+69
+72
+21
+81
+95
+74
+72
+88
+79
+76
+92
+58
+94
+56
+23
+56
+19
+83
+16
+57
+86
+66
+79
+41
+46
+9
+54
+54
+5
+65
+98
+71
+82
+80
+75
+30
+74
+84
+37
+72
+55
+36
+47
+55
+49
+46
+61
+85
+20
+73
+49
+14
+92
+72
+57
+9
+55
+92
+21
+57
+54
+72
+2
+40
+87
+46
+20
+77
+98
+5
+5
+73
+15
+60
+3
+43
+94
+15
+96
+36
+48
+93
+85
+39
+38
+18
+44
+8
+98
+34
+55
+12
+20
+86
+5
+22
+62
+30
+31
+81
+47
+25
+98
+72
+46
+66
+64
+1
+74
+71
+49
+81
+13
+50
+39
+1
+96
+23
+40
+4
+88
+76
+72
+15
+79
+6
+4
+2
+77
+60
+15
+72
+14
+40
+6
+74
+9
+63
+40
+26
+84
+991 softdrink 2030
+395 food 3466
+175 food 369
+973 food 4071
+921 food 1665
+488 softdrink 813
+814 food 721
+33 softdrink 898
+277 softdrink 2975
+31 softdrink 2845
+364 food 3404
+305 alcohol 2034
+124 softdrink 3650
+484 alcohol 905
+706 food 4135
+545 softdrink 833
+204 softdrink 4657
+875 softdrink 1879
+34 softdrink 2835
+969 alcohol 2348
+195 alcohol 1945
+393 alcohol 336
+316 food 901
+946 softdrink 2978
+796 alcohol 4348
+418 softdrink 2622
+115 softdrink 4821
+571 food 3272
+433 softdrink 3616
+480 food 1032
+624 food 4074
+668 softdrink 1739
+712 food 3247
+886 softdrink 2394
+104 alcohol 3356
+721 food 2459
+518 alcohol 2848
+254 softdrink 3525
+655 food 3501
+40 softdrink 2449
+81 food 823
+509 alcohol 3583
+670 softdrink 1884
+765 alcohol 2368
+839 softdrink 499
+388 food 4095
+135 alcohol 501
+959 softdrink 2836
+2 alcohol 2347
+492 food 2585
+661 alcohol 2046
+566 softdrink 2524
+980 food 2126
+529 food 1104
+503 alcohol 959
+17 food 2254
+668 alcohol 3709
+681 softdrink 2970
+418 food 955
+833 alcohol 4998
+99 softdrink 1661
+399 food 681
+959 alcohol 3811
+212 softdrink 4792
+411 alcohol 1632
+24 food 449
+672 softdrink 1198
+898 softdrink 4755
+109 alcohol 4716
+313 food 4599
+300 softdrink 3011
+578 alcohol 2598
+62 softdrink 3220
+987 softdrink 3753
+470 food 1111
+929 food 1346
+869 alcohol 4742
+576 alcohol 1739
+999 softdrink 337
+784 food 457
+210 alcohol 3918
+345 alcohol 3200
+687 softdrink 3237
+125 food 4837
+705 food 4535
+563 alcohol 4386
+927 alcohol 4296
+378 alcohol 655
+613 food 4734
+59 softdrink 1145
+96 softdrink 4615
+919 alcohol 2449
+563 food 3275
+646 food 2010
+852 softdrink 833
+810 alcohol 4085
+414 food 4240
+336 alcohol 1593
+248 softdrink 3151
+754 food 2428
+520 softdrink 2151
+949 food 3046
+324 food 4117
+566 food 526
+293 alcohol 4448
+424 food 2004
+523 softdrink 3327
+391 softdrink 4294
+562 alcohol 4221
+429 food 3556
+886 food 1299
+598 softdrink 1411
+683 alcohol 4767
+612 food 754
+233 food 642
+43 food 1712
+337 food 4203
+617 food 4903
+932 softdrink 4187
+484 softdrink 4063
+117 alcohol 2692
+229 alcohol 2733
+137 alcohol 3659
+521 softdrink 1663
+202 alcohol 2698
+368 alcohol 4136
+158 food 3072
+653 food 3864
+729 food 3780
+344 alcohol 1028
+290 softdrink 3330
+229 food 4255
+221 alcohol 3834
+281 alcohol 2105
+251 softdrink 966
+477 food 1549
+313 softdrink 993
+597 food 2463
+601 food 2569
+310 food 4345
+46 softdrink 3479
+393 food 1489
+76 softdrink 2334
+813 alcohol 2014
+839 softdrink 3500
+976 softdrink 2660
+630 alcohol 4124
+727 softdrink 4161
+771 softdrink 1951
+418 alcohol 4403
+308 softdrink 1487
+965 alcohol 4753
+813 softdrink 921
+577 food 4371
+300 alcohol 4327
+51 alcohol 3082
+158 alcohol 4117
+314 alcohol 4053
+74 food 1622
+771 alcohol 3148
+134 softdrink 1510
+684 softdrink 519
+475 food 3267
+911 alcohol 2746
+931 alcohol 4159
+898 softdrink 2789
+965 softdrink 2898
+957 food 1187
+363 softdrink 940
+395 food 3597
+674 alcohol 2460
+48 softdrink 1803
+161 alcohol 3833
+556 softdrink 1433
+5 softdrink 1616
+279 alcohol 3778
+238 alcohol 4471
+525 alcohol 4090
+688 softdrink 4911
+466 softdrink 721
+564 food 1306
+521 softdrink 3875
+65 softdrink 1431
+300 food 1183
+825 alcohol 2623
+323 alcohol 2876
+390 softdrink 3286
+497 food 3112
+497 alcohol 2051
+174 softdrink 2115
+818 food 2094
+937 food 1800
+480 softdrink 4118
+28 food 3032
+64 food 4760
+813 alcohol 2038
+939 alcohol 4277
+560 food 2408
+153 food 4681
+795 softdrink 2653
+957 alcohol 405
+832 alcohol 1788
+685 food 4561
+806 softdrink 2260
+515 softdrink 2345
+65 food 2608
+478 food 3238
+113 food 1187
+99 softdrink 344
+698 alcohol 4515
+197 softdrink 3899
+40 alcohol 3847
+661 alcohol 903
+594 softdrink 1846
+934 softdrink 2792
+948 softdrink 522
+262 food 3733
+30 food 1515
+816 food 2148
+721 alcohol 2919
+443 food 3645
+404 food 2600
+662 food 4160
+390 alcohol 376
+32 alcohol 868
+317 alcohol 1336
+632 alcohol 2825
+504 softdrink 1296
+901 food 2903
+714 food 4272
+250 softdrink 1048
+800 food 963
+510 alcohol 4372
+100 softdrink 2586
+232 softdrink 4603
+587 food 4132
+602 food 983
+844 alcohol 2247
+89 softdrink 4037
+150 food 373
+537 softdrink 3631
+379 food 3678
+786 alcohol 2518
+91 alcohol 4261
+942 alcohol 1199
+862 food 1848
+982 food 2665
+656 alcohol 3984
+527 alcohol 3875
+360 food 1975
+390 food 3813
+294 food 690
+526 softdrink 1193
+578 softdrink 2281
+381 alcohol 3510
+544 food 4148
+55 food 342
+958 softdrink 701
+716 alcohol 1023
+291 alcohol 1908
+146 alcohol 734
+180 softdrink 1313
+911 alcohol 4538
+652 alcohol 2679
+259 food 4291
+400 softdrink 2090
+89 alcohol 4861
+488 alcohol 4918
+111 food 2983
+303 alcohol 1097
+480 alcohol 3488
+692 food 384
+484 softdrink 2801
+547 softdrink 2780
+691 food 1038
+355 food 3288
+294 food 2694
+111 food 4216
+405 softdrink 2799
+575 food 1723
+743 food 3952
+114 food 508
+43 alcohol 1899
+366 alcohol 3507
+398 alcohol 4510
+374 alcohol 4634
+466 food 4415
+515 food 1871
+405 food 1663
+913 food 1657
+347 alcohol 907
+522 food 2030
+475 alcohol 2740
+169 alcohol 1860
+299 food 4736
+507 alcohol 1276
+411 softdrink 1245
+781 alcohol 4201
+297 alcohol 1950
+531 food 4455
+648 softdrink 2523
+266 alcohol 3091
+404 food 423
+352 food 1519
+735 food 4306
+427 food 4208
+469 alcohol 4751
+765 food 4775
+613 alcohol 2952
+223 softdrink 1720
+180 softdrink 3287
+506 alcohol 381
+711 food 4878
+7 softdrink 4690
+93 alcohol 2442
+677 softdrink 3939
+629 alcohol 2410
+209 food 1662
+256 food 1268
+549 softdrink 3359
+39 alcohol 4430
+858 softdrink 2426
+650 food 2089
+167 softdrink 1529
+452 food 393
+1 alcohol 2702
+229 food 665
+742 food 4128
+662 food 2947
+239 softdrink 510
+759 alcohol 1945
+32 alcohol 1004
+780 food 2061
+757 food 1023
+811 food 967
+11 alcohol 457
+684 softdrink 4871
+510 food 724
+386 alcohol 1536
+847 alcohol 4150
+767 softdrink 1592
+411 alcohol 4996
+718 softdrink 616
+726 softdrink 2920
+717 food 1280
+890 softdrink 2199
+317 food 4226
+438 softdrink 4238
+46 softdrink 2469
+774 food 2985
+581 softdrink 2597
+787 alcohol 1791
+170 alcohol 4203
+264 alcohol 4258
+391 softdrink 1659
+204 softdrink 2002
+595 alcohol 2755
+26 softdrink 3241
+607 alcohol 4166
+352 food 2657
+618 alcohol 2620
+687 food 3698
+219 alcohol 668
+648 softdrink 1689
+216 food 4245
+122 food 2973
+248 alcohol 2999
+534 softdrink 2113
+428 alcohol 2606
+867 food 4971
+394 softdrink 4599
+647 alcohol 1684
+643 softdrink 4498
+8 softdrink 4630
+844 softdrink 1166
+135 food 3469
+73 softdrink 4546
+950 softdrink 4863
+806 softdrink 4207
+392 softdrink 1134
+844 food 2023
+909 softdrink 3687
+611 alcohol 4272
+687 softdrink 1084
+765 food 328
+694 softdrink 4084
+185 food 1380
+643 food 4154
+930 alcohol 967
+281 softdrink 2091
+427 alcohol 3334
+650 food 3702
+102 food 3565
+846 softdrink 1358
+642 food 1999
+424 softdrink 3935
+237 alcohol 1666
+644 softdrink 3758
+799 softdrink 4909
+424 softdrink 1157
+405 softdrink 4686
+346 food 1047
+401 food 2201
+76 food 3283
+805 food 4732
+467 alcohol 4635
+240 food 804
+876 alcohol 2476
+90 softdrink 2993
+756 alcohol 4584
+454 alcohol 3102
+970 food 4524
+455 softdrink 1535
+150 softdrink 2614
+801 food 1851
+47 alcohol 4072
+306 alcohol 1240
+415 softdrink 560
+389 alcohol 1208
+679 alcohol 4858
+120 alcohol 385
+725 softdrink 1177
+891 alcohol 1262
+781 softdrink 2485
+871 food 1299
+344 softdrink 4019
+465 alcohol 2474
+158 alcohol 3975
+367 food 3850
+575 softdrink 4876
+109 alcohol 1096
+347 food 3749
+944 alcohol 4272
+595 softdrink 4672
+461 softdrink 1978
+710 softdrink 3140
+339 alcohol 2171
+23 alcohol 1002
+854 softdrink 3149
+302 alcohol 2429
+602 softdrink 2117
+661 food 3648
+875 food 4466
+979 softdrink 2232
+512 food 3722
+615 softdrink 3472
+130 alcohol 4859
+209 alcohol 1504
+263 food 3374
+863 alcohol 3264
+754 alcohol 2803
+284 food 4688
+471 softdrink 1460
+869 alcohol 3996
+420 alcohol 4354
+559 food 729
+660 alcohol 3961
+737 food 528
+768 softdrink 2236
+494 alcohol 4295
+218 alcohol 3647
+17 food 2568
+234 softdrink 4325
+498 food 2421
+527 food 1926
+555 alcohol 1228
+40 alcohol 536
+650 food 2235
+986 food 1537
+39 softdrink 465
+633 softdrink 453
+315 alcohol 4155
+701 alcohol 4328
+316 alcohol 434
+357 softdrink 793
+850 food 4130
+395 alcohol 1033
+467 softdrink 3983
+952 softdrink 4090
+893 alcohol 3574
+32 food 4250
+108 alcohol 1128
+587 softdrink 3286
+728 softdrink 2622
+32 softdrink 2738
+28 softdrink 2245
+150 alcohol 4833
+308 softdrink 4009
+348 food 4851
+37 softdrink 2501
+824 softdrink 4439
+258 alcohol 4688
+220 food 3169
+254 softdrink 4724
+497 food 4017
+416 alcohol 1577
+17 softdrink 3694
+173 food 2924
+932 alcohol 1201
+415 food 435
+831 food 3427
+401 softdrink 1516
+432 softdrink 4486
+627 alcohol 1823
+690 softdrink 2771
+930 softdrink 4482
+211 food 628
+158 alcohol 1427
+514 softdrink 1959
+324 food 1440
+717 alcohol 2149
+951 softdrink 1521
+119 alcohol 1576
+382 food 497
+173 food 2794
+803 alcohol 3570
+338 alcohol 3274
+355 softdrink 2772
+415 food 1981
+123 alcohol 1968
+861 alcohol 1364
+367 alcohol 1140
+992 softdrink 1043
+777 softdrink 2123
+599 softdrink 1904
+610 softdrink 4897
+153 food 517
+173 alcohol 2954
+558 softdrink 4111
+722 softdrink 3169
+148 alcohol 2565
+871 softdrink 2862
+581 alcohol 1738
+326 alcohol 2885
+245 softdrink 2901
+759 alcohol 3992
+539 softdrink 4974
+577 alcohol 4207
+19 food 2639
+867 food 2897
+800 softdrink 3202
+124 alcohol 903
+214 food 1379
+628 alcohol 4758
+994 alcohol 3572
+705 alcohol 755
+99 food 4373
+804 alcohol 2060
+435 softdrink 1586
+344 softdrink 3930
+627 food 2373
+680 alcohol 4475
+80 food 4440
+143 food 829
+222 softdrink 3476
+161 food 4622
+611 softdrink 3513
+914 softdrink 2187
+68 alcohol 4387
+492 alcohol 4895
+74 alcohol 622
+18 softdrink 841
+369 food 1547
+238 alcohol 3349
+832 softdrink 3595
+183 food 535
+352 softdrink 2520
+911 alcohol 2954
+749 softdrink 2741
+827 alcohol 3052
+549 alcohol 3571
+391 food 3757
+272 softdrink 3707
+688 softdrink 1667
+238 softdrink 2728
+377 alcohol 3292
+239 softdrink 4859
+951 alcohol 4968
+771 softdrink 1462
+153 food 3476
+319 softdrink 4576
+19 food 1218
+823 alcohol 530
+72 softdrink 524
+114 softdrink 4459
+872 food 1694
+248 alcohol 4174
+779 alcohol 2792
+164 softdrink 1108
+199 food 3781
+291 food 3302
+760 softdrink 1868
+65 food 4062
+15 food 3994
+600 food 4393
+238 softdrink 3567
+723 softdrink 4022
+97 food 4853
+63 food 1411
+344 softdrink 309
+973 softdrink 4235
+916 softdrink 4715
+761 alcohol 1946
+631 food 4181
+103 softdrink 2843
+171 alcohol 4632
+940 alcohol 3052
+18 food 4297
+731 alcohol 500
+903 food 913
+985 alcohol 1166
+198 alcohol 4857
+663 alcohol 1028
+100 food 309
+748 food 2416
+132 alcohol 646
+265 alcohol 3941
+999 alcohol 3566
+777 food 4623
+700 softdrink 4617
+127 softdrink 2375
+629 softdrink 2100
+928 softdrink 3280
+624 softdrink 2887
+194 food 2927
+812 food 4333
+105 food 1080
+24 softdrink 3199
+739 alcohol 4968
+492 food 1569
+920 alcohol 1741
+474 food 4523
+780 alcohol 507
+121 alcohol 965
+363 food 4208
+580 food 2125
+260 alcohol 1148
+438 softdrink 4444
+336 softdrink 1751
+703 alcohol 3990
+192 alcohol 2239
+988 food 3745
+117 alcohol 4301
+454 alcohol 2549
+169 alcohol 4820
+12 softdrink 2042
+528 alcohol 2016
+929 softdrink 488
+199 food 2383
+812 food 2681
+675 alcohol 2031
+370 softdrink 3381
+405 food 2541
+248 alcohol 2046
+179 softdrink 3259
+850 food 4913
+937 alcohol 1105
+122 food 3783
+917 food 3271
+112 food 2318
+973 softdrink 4653
+825 food 3654
+298 alcohol 2206
+315 alcohol 3496
+601 food 565
+653 alcohol 420
+625 food 2787
+415 softdrink 3106
+917 alcohol 4675
+155 alcohol 3771
+582 alcohol 3306
+554 food 4190
+991 softdrink 4008
+37 alcohol 2229
+145 food 3687
+559 softdrink 304
+655 softdrink 4320
+417 alcohol 3025
+480 food 3505
+507 food 4423
+244 alcohol 2512
+420 softdrink 3270
+892 softdrink 2811
+768 food 499
+374 alcohol 4178
+512 softdrink 4092
+826 softdrink 4070
+650 alcohol 1223
+496 alcohol 4044
+679 softdrink 1615
+121 alcohol 3354
+998 food 966
+185 softdrink 4466
+424 softdrink 3142
+685 softdrink 2240
+488 food 4493
+996 alcohol 3323
+179 food 1398
+864 food 1332
+387 food 4746
+137 softdrink 1939
+445 food 3845
+681 food 2829
+28 softdrink 1255
+798 food 3007
+282 softdrink 4734
+621 food 1673
+787 alcohol 3290
+617 food 3150
+792 alcohol 4497
+271 alcohol 3992
+605 food 4095
+362 food 2780
+477 alcohol 4707
+348 softdrink 3503
+865 alcohol 2413
+298 softdrink 3926
+473 softdrink 3368
+899 food 3675
+764 alcohol 4439
+57 food 3759
+877 alcohol 4516
+412 softdrink 3026
+399 food 1174
+371 softdrink 844
+603 alcohol 1893
+552 alcohol 344
+767 softdrink 3730
+455 softdrink 2284
+396 softdrink 1913
+227 food 379
+71 alcohol 3072
+262 alcohol 2859
+844 softdrink 1674
+319 food 3223
+789 alcohol 1931
+150 softdrink 692
+450 softdrink 4650
+647 softdrink 2550
+376 food 3312
+938 food 1177
+853 alcohol 644
+232 softdrink 845
+577 food 4107
+894 softdrink 3127
+615 food 1758
+758 alcohol 4699
+275 alcohol 2922
+904 softdrink 1864
+654 food 699
+555 alcohol 1683
+926 softdrink 1191
+331 alcohol 4910
+516 alcohol 3212
+949 food 4443
+534 alcohol 1640
+356 food 4317
+970 food 2276
+751 food 2837
+771 softdrink 1401
+817 food 4812
+424 alcohol 4631
+237 alcohol 3364
+504 alcohol 1863
+777 food 4664
+61 alcohol 1034
+420 food 4695
+512 softdrink 593
+144 alcohol 789
+43 alcohol 783
+194 alcohol 1366
+516 food 4146
+699 food 1913
+212 softdrink 384
+995 alcohol 3431
+391 alcohol 3731
+231 softdrink 4605
+647 alcohol 747
+179 food 584
+349 softdrink 1716
+369 food 2231
+997 food 481
+689 softdrink 900
+591 alcohol 4971
+101 alcohol 765
+320 alcohol 2968
+524 food 3300
+617 alcohol 1306
+381 alcohol 3406
+405 food 1135
+847 softdrink 4006
+781 alcohol 850
+2 softdrink 3383
+289 food 2950
+490 food 3320
+171 softdrink 2398
+123 alcohol 2058
+704 alcohol 2874
+392 softdrink 648
+574 softdrink 1133
+456 softdrink 4290
+859 alcohol 2047
+455 alcohol 1133
+699 food 2000
+819 alcohol 1556
+173 food 2979
+708 softdrink 3561
+771 alcohol 1392
+916 softdrink 768
+429 alcohol 4405
+987 food 4109
+748 softdrink 497
+780 food 3341
+345 food 914
+111 food 2455
+227 softdrink 2278
+322 softdrink 2772
+76 alcohol 1650
+442 food 4418
+650 softdrink 3888
+923 softdrink 4363
+620 alcohol 3077
+725 softdrink 3708
+153 alcohol 3105
+663 alcohol 1028
+51 food 2160
+775 food 4463
+732 food 2796
+464 food 2075
+143 alcohol 1052
+796 softdrink 2817
+730 food 1426
+8 food 3168
+449 food 4825
+172 softdrink 1501
+995 alcohol 2347
+732 alcohol 4469
+793 softdrink 334
+259 food 1491
+33 softdrink 437
+342 softdrink 4023
+346 food 2192
+134 alcohol 2649
+348 alcohol 830
+675 alcohol 2293
+895 alcohol 489
+990 alcohol 1748
+571 food 4199
+301 alcohol 2270
+810 softdrink 1101
+198 softdrink 3513
+627 softdrink 3389
+902 softdrink 905
+245 softdrink 1640
+794 alcohol 306
+802 alcohol 4634
+615 food 4333
+818 alcohol 2103
+876 food 646
+845 food 4654
+155 food 2341
+135 alcohol 4280
+143 alcohol 2126
+219 food 1157
+390 alcohol 2524
+981 softdrink 4295
+652 food 3807
+874 alcohol 2738
+981 food 3773
+756 alcohol 4568
+519 softdrink 4734
+413 food 3995
+316 softdrink 2332
+63 alcohol 333
+125 softdrink 2644
+955 alcohol 1796
+565 food 4541
+383 alcohol 3184
+168 softdrink 3480
+956 softdrink 2208
+629 food 2646
+350 softdrink 4550
+563 alcohol 2761
+985 food 2804
+835 food 4049
+61 softdrink 2453
+665 alcohol 617
+428 food 1868
+119 alcohol 546
+934 softdrink 1443
+821 food 1351
+96 food 2346
+74 softdrink 891
+899 food 1536
+830 alcohol 4335
+275 alcohol 3244
+852 food 2712
+987 alcohol 1324
+314 alcohol 1900
+439 softdrink 2461
+739 alcohol 2847
+731 alcohol 1882
+557 alcohol 1094
+160 food 2784
+362 alcohol 698
+328 alcohol 1834
+697 softdrink 876
+582 softdrink 2949
+82 softdrink 363
+701 food 4714
+988 alcohol 640
+801 food 2988
+864 alcohol 1439
+789 food 2522
+736 softdrink 1602
+719 alcohol 486
+61 food 3483
+411 food 4031
+781 softdrink 876
+692 food 2052
+929 softdrink 2541
+981 softdrink 603
+663 softdrink 634
+13 food 920
+305 food 2756
+556 softdrink 4624
+708 alcohol 2231
+683 food 3029
+950 softdrink 2663
+88 food 2525
+712 softdrink 3861
+842 alcohol 1424
+755 food 2466
+733 softdrink 4728
+802 softdrink 2212
+326 food 2820
+279 food 3686
+763 alcohol 1230
+179 softdrink 2533
+271 food 332
+180 softdrink 2194
+567 alcohol 4012
+816 food 1579
+132 food 2212
+99 food 1311
+61 softdrink 4234
+386 softdrink 2262
+357 alcohol 4198
+248 alcohol 2464
+327 food 1520
+694 food 1700
+849 alcohol 4632
+673 softdrink 1982
+83 alcohol 2152
+64 alcohol 2926
+294 alcohol 2890
+875 alcohol 3453
+786 alcohol 3802
+285 alcohol 2318
+322 softdrink 2486
+939 softdrink 4148
+509 alcohol 2821
+445 softdrink 2938
+550 alcohol 4007
+420 food 1653
+355 food 4725
+661 alcohol 3228
+57 softdrink 2349
+577 softdrink 1556
+311 softdrink 842
+993 alcohol 783
+992 softdrink 4141
+822 food 1636
+983 softdrink 371
+849 softdrink 3942
+910 food 3802
+660 food 329
+394 alcohol 3679
+601 alcohol 2447
+228 food 4422
+532 alcohol 818
+419 alcohol 4333
+465 alcohol 1843
+432 softdrink 2991
+446 alcohol 775
+524 alcohol 2206
+363 alcohol 3119
+232 alcohol 2977
+347 softdrink 3834
+797 alcohol 2763
+556 food 2900
+465 softdrink 2033
+120 softdrink 3878
+252 alcohol 4674
+941 food 3826
+894 softdrink 3768
+711 alcohol 4872
+756 food 3388
+989 alcohol 3524
+943 food 2314
