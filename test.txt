@@ -1,4 +1,5 @@
+0 0 1 2
 3
-make 1 nana
-getnum 1
-getname 1
+0 0
+1 1
+4 2

@@ -12,6 +12,12 @@ class employee {
   getname() {
     return this.name;
   }
+  change_num(number) {
+    this.number = number;
+  }
+  change_name(name) {
+    this.name = name;
+  }
 }
 
 const N = Number(lines[0]);
@@ -28,6 +34,12 @@ for (let i = 1; i < lines.length; i++) {
       break;
     case "getname":
       console.log(employees[NUM - 1].getname());
+      break;
+    case "change_num":
+      employees[NUM - 1].change_num(NAME);
+      break;
+    case "change_name":
+      employees[NUM - 1].change_name(NAME);
       break;
     default:
       break;
