@@ -1,6 +1,6 @@
-5 110 120
-110
-100
-120
-130
-105
+5
+paiza1
+kirishima813
+pizza99
+sushi100
+beef1001
