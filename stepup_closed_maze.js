@@ -15,7 +15,6 @@
  */
 var lines = require("fs").readFileSync("test.txt", "utf8").split("\n");
 //var lines = require("fs").readFileSync("/dev/stdin", "utf8").split("\n");
-///Users/tokitashota/Desktop/paiza/paizaStudy/paiza/stepup_closed_maze.js
 class Maze {
   constructor(key, next_1, next_2) {
     this.key = key;
