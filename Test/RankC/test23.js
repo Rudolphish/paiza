@@ -22,6 +22,8 @@ T_1 ... T_N
 hamburg
 2
 cheese hamburg
+
+testCommit
  */
 
 var lines = require("fs").readFileSync("test.txt", "utf8").split("\n");
