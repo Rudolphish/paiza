@@ -1,4 +1,5 @@
-export const sampleMap = {
+const sampleMap = {
+  // aaa--------------------------------------------------------
   aaa: [
     {
       key: "zidoukeisan",
@@ -13,6 +14,7 @@ export const sampleMap = {
       },
     },
   ],
+  // bbb------------------------------------------------
   bbb: [
     {
       key: "zidoukeisan",
@@ -28,6 +30,9 @@ export const sampleMap = {
     },
   ],
 };
+export function sample(tetsuduki, pKey) {
+  sampleMap[tetsuduki].find((map) => map.key === pKey).function();
+}
 
 export const testMap = {
   aa: {

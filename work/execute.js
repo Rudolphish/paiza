@@ -1,14 +1,12 @@
 import {
-  sampleMap,
+  sample,
   testMap,
 } from "/Users/tokitashota/Desktop/paiza/paizaStudy/paiza/work/sample.js";
 
-function sample(tetsuduki, pKey) {
-  sampleMap[tetsuduki].find((map) => map.key === pKey).function();
+function getfunction(key, funcName) {
+  sample(key, funcName);
 }
-
-sample("aaa", "customCheck");
-
+getfunction("bbb", "zidoukeisan");
 function test(key) {
   testMap[key].function();
 }
