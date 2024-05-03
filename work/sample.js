@@ -36,3 +36,9 @@ export const testMap = {
     },
   },
 };
+/**
+git config --global user.name "Rudolphish"
+git config --global user.email "rudi.rednose.wolf@gmail.com"
+git config --global core.quotepath false
+git config --global core.editor "code --wait"
+ */
